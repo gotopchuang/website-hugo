@@ -34,5 +34,5 @@ bookToc: false
 &NewLine;  
 &NewLine;  
 #### 其他經歷  
-2021&nbsp;&nbsp;&nbsp;&nbsp;與陽春麵研究社舍獲得 文化部創作補助 -「日出」錄像裝置創作計畫  
+2021&nbsp;&nbsp;&nbsp;&nbsp;與陽春麵研究舍獲得 文化部創作補助 -「日出」錄像裝置創作計畫  
 2019&nbsp;&nbsp;&nbsp;&nbsp;國立臺灣大學多媒體資訊檢索實驗室，研究助理
