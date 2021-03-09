@@ -1,0 +1,8 @@
+baseURL = "https://gotopchuang.github.io/"
+languageCode = "zh-tw"
+title = "Gotop Chuang 莊向峰"
+
+enableGitInfo = false
+
+[params]
+BookMenuBundle = '/menu'
