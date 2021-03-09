@@ -3,7 +3,7 @@ title: Contact
 weight: 6
 bookToc: false
 ---
-## **CV**
+## **Contact**
 &NewLine;  
 &NewLine;  
 Email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp; gotop0728@gmail.com  
