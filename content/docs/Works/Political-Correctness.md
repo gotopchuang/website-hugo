@@ -29,12 +29,12 @@ bookToc: false
 	</td>
   </tr>
   <tr>
-	<td style="width:281px">
+	<td style="width:282px">
 		<a href="/img/political-correctness/1-2.jpeg"><img src="/img/political-correctness/1-2.jpeg" width="279px"/></a><br \>
 		<a href="/img/political-correctness/1-3.jpeg"><img src="/img/political-correctness/1-3.jpeg" width="279px"/></a><br \>
 		<a href="/img/political-correctness/1-4.jpeg"><img src="/img/political-correctness/1-4.jpeg" width="279px"/></a>
 	</td>
-    <td style="padding-left:4px; width:520px">
+    <td style="padding-left:3px; width:428px">
 		<a href="/img/political-correctness/1-5-1.jpeg"><img src="/img/political-correctness/1-5-1.jpeg" width="423px"/></a><br \>
 		<a href="/img/political-correctness/1-5-2.jpeg"><img src="/img/political-correctness/1-5-2.jpeg" width="423px"/></a>
 	</td>
@@ -60,14 +60,14 @@ bookToc: false
 <table border='0' align="center">
   <tr>
 	<td colspan=2>
-		<a href="/img/political-correctness/exhibition-1.jpeg"><img src="/img/political-correctness/exhibition-1.jpg" width="709px"/></a>
+		<a href="/img/political-correctness/exhibition-1.jpeg"><img src="/img/political-correctness/exhibition-1.jpg" width="710px"/></a>
 	</td>
   </tr>
   <tr>
-	<td style="width:353px;">
+	<td style="width:355px;">
 		<a href="/img/political-correctness/exhibition-2.jpeg"><img src="/img/political-correctness/exhibition-2.jpg" width="351px"/></a>
 	</td>
-	<td style="padding-left:4px; width:443px">
+	<td style="padding-left:4px; width:355px">
 		<a href="/img/political-correctness/exhibition-3.jpeg"><img src="/img/political-correctness/exhibition-3.jpg" width="351px"/></a>
 	</td>
   </tr>
