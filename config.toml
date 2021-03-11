@@ -6,3 +6,6 @@ enableGitInfo = false
 
 [params]
 BookMenuBundle = '/menu'
+
+[markup.goldmark.renderer]
+unsafe= true

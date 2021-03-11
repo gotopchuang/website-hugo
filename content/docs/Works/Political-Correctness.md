@@ -8,7 +8,7 @@ bookToc: false
 &NewLine;  
 政治正確  
 藝術微噴、金屬相紙  
-80x64cm、35x28cm  
+80x64cm 2件、35x28cm 6件、35x28cm雙面 2件  
 2018  
 &NewLine;  
 &NewLine;  
@@ -19,4 +19,56 @@ bookToc: false
 &NewLine;  
 「影像」透過「螢幕」傳播到人們的腦中，當資訊數量 淹沒接收能力，傳遞速度快過思考時間，人們往往忽略了對資訊正確性的判斷  與不同觀點的考量，影像淪為透 過「符號」傳遞「意識形態」將政治正確性推展至極端的工具。  
 &NewLine;  
-本作品蒐集台灣社會裡，意識形態高度衝突的社會議題，各個立場所代表的符號，透過編導式攝影的方式讓這些符號在畫面中互動，並安排臉被手機光照亮的人穿插於畫面中，在編排畫面時盡可能減少立場的表達，試圖讓觀者觀看作品的時候因為自身的立場腦補影像所傳遞的意識形態，探討新時代「符號」、「意識形態」、「傳播機制」與「影像」之間的關係。
+本作品蒐集台灣社會裡，意識形態高度衝突的社會議題，各個立場所代表的符號，透過編導式攝影的方式讓這些符號在畫面中互動，並安排臉被手機光照亮的人穿插於畫面中，在編排畫面時盡可能減少立場的表達，試圖讓觀者觀看作品的時候因為自身的立場腦補影像所傳遞的意識形態，探討新時代「符號」、「意識形態」、「傳播機制」與「影像」之間的關係。  
+&NewLine;  
+&NewLine;  
+<table border='0'>
+  <tr>
+	<td colspan=2 style="padding-left:10%">
+		<a href="/img/political-correctness/1-1.jpeg"><img src="/img/political-correctness/1-1.jpeg" width="709px"/></a>
+	</td>
+  </tr>
+  <tr>
+	<td style="padding-left:10%; width:363px">
+		<a href="/img/political-correctness/1-2.jpeg"><img src="/img/political-correctness/1-2.jpeg" width="279px"/></a><br \>
+		<a href="/img/political-correctness/1-3.jpeg"><img src="/img/political-correctness/1-3.jpeg" width="279px"/></a><br \>
+		<a href="/img/political-correctness/1-4.jpeg"><img src="/img/political-correctness/1-4.jpeg" width="279px"/></a>
+	</td>
+    <td>
+		<a href="/img/political-correctness/1-5-1.jpeg"><img src="/img/political-correctness/1-5-1.jpeg" width="423px"/></a><br \>
+		<a href="/img/political-correctness/1-5-2.jpeg"><img src="/img/political-correctness/1-5-2.jpeg" width="423px"/></a>
+	</td>
+  <tr>
+	<td colspan=2 style="padding-left:10%">
+		<br \><br \>
+		<a href="/img/political-correctness/2-1.jpeg"><img src="/img/political-correctness/2-1.jpeg" width="709px"/></a>
+	</td>
+  </tr>
+  <tr>
+	<td style="padding-left:10%;">
+		<a href="/img/political-correctness/2-2.jpeg"><img src="/img/political-correctness/2-2.jpeg" width="279px"/></a><br \>
+		<a href="/img/political-correctness/2-3.jpeg"><img src="/img/political-correctness/2-3.jpeg" width="279px"/></a><br \>
+		<a href="/img/political-correctness/2-4.jpeg"><img src="/img/political-correctness/2-4.jpeg" width="279px"/></a>
+	</td>
+    <td>
+		<a href="/img/political-correctness/2-5-1.jpeg"><img src="/img/political-correctness/2-5-1.jpeg" width="423px"/></a><br \>
+		<a href="/img/political-correctness/2-5-2.jpeg"><img src="/img/political-correctness/2-5-2.jpeg" width="423px"/></a>
+	</td>
+  </tr>
+</table>
+<br \><br \>
+<table border='0'>
+  <tr>
+	<td colspan=2 style="padding-left:10%">
+		<a href="/img/political-correctness/exhibition-1.jpeg"><img src="/img/political-correctness/exhibition-1.jpg" width="709px"/></a>
+	</td>
+  </tr>
+  <tr>
+	<td style="padding-left:10%; width:436px">
+		<a href="/img/political-correctness/exhibition-2.jpeg"><img src="/img/political-correctness/exhibition-2.jpg" width="351px"/></a>
+	</td>
+	<td>
+		<a href="/img/political-correctness/exhibition-3.jpeg"><img src="/img/political-correctness/exhibition-3.jpg" width="351px"/></a>
+	</td>
+  </tr>
+</table>
