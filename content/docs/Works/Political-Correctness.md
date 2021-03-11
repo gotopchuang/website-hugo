@@ -22,52 +22,52 @@ bookToc: false
 本作品蒐集台灣社會裡，意識形態高度衝突的社會議題，各個立場所代表的符號，透過編導式攝影的方式讓這些符號在畫面中互動，並安排臉被手機光照亮的人穿插於畫面中，在編排畫面時盡可能減少立場的表達，試圖讓觀者觀看作品的時候因為自身的立場腦補影像所傳遞的意識形態，探討新時代「符號」、「意識形態」、「傳播機制」與「影像」之間的關係。  
 &NewLine;  
 &NewLine;  
-<table border='0'>
+<table border='0' align="center">
   <tr>
-	<td colspan=2 style="padding-left:10%">
+	<td colspan=2>
 		<a href="/img/political-correctness/1-1.jpeg"><img src="/img/political-correctness/1-1.jpeg" width="709px"/></a>
 	</td>
   </tr>
   <tr>
-	<td style="padding-left:10%; width:374px">
+	<td style="width:281px">
 		<a href="/img/political-correctness/1-2.jpeg"><img src="/img/political-correctness/1-2.jpeg" width="279px"/></a><br \>
 		<a href="/img/political-correctness/1-3.jpeg"><img src="/img/political-correctness/1-3.jpeg" width="279px"/></a><br \>
 		<a href="/img/political-correctness/1-4.jpeg"><img src="/img/political-correctness/1-4.jpeg" width="279px"/></a>
 	</td>
-    <td style="width:520px">
+    <td style="padding-left:4px; width:520px">
 		<a href="/img/political-correctness/1-5-1.jpeg"><img src="/img/political-correctness/1-5-1.jpeg" width="423px"/></a><br \>
 		<a href="/img/political-correctness/1-5-2.jpeg"><img src="/img/political-correctness/1-5-2.jpeg" width="423px"/></a>
 	</td>
   <tr>
-	<td colspan=2 style="padding-left:10%">
+	<td colspan=2>
 		<br \><br \>
 		<a href="/img/political-correctness/2-1.jpeg"><img src="/img/political-correctness/2-1.jpeg" width="709px"/></a>
 	</td>
   </tr>
   <tr>
-	<td style="padding-left:10%;">
+	<td>
 		<a href="/img/political-correctness/2-2.jpeg"><img src="/img/political-correctness/2-2.jpeg" width="279px"/></a><br \>
 		<a href="/img/political-correctness/2-3.jpeg"><img src="/img/political-correctness/2-3.jpeg" width="279px"/></a><br \>
 		<a href="/img/political-correctness/2-4.jpeg"><img src="/img/political-correctness/2-4.jpeg" width="279px"/></a>
 	</td>
-    <td>
+    <td style="padding-left:4px">
 		<a href="/img/political-correctness/2-5-1.jpeg"><img src="/img/political-correctness/2-5-1.jpeg" width="423px"/></a><br \>
 		<a href="/img/political-correctness/2-5-2.jpeg"><img src="/img/political-correctness/2-5-2.jpeg" width="423px"/></a>
 	</td>
   </tr>
 </table>
 <br \><br \>
-<table border='0'>
+<table border='0' align="center">
   <tr>
-	<td colspan=2 style="padding-left:10%">
+	<td colspan=2>
 		<a href="/img/political-correctness/exhibition-1.jpeg"><img src="/img/political-correctness/exhibition-1.jpg" width="709px"/></a>
 	</td>
   </tr>
   <tr>
-	<td style="padding-left:10%; width:443px">
+	<td style="width:353px;">
 		<a href="/img/political-correctness/exhibition-2.jpeg"><img src="/img/political-correctness/exhibition-2.jpg" width="351px"/></a>
 	</td>
-	<td style="width:443px">
+	<td style="padding-left:4px; width:443px">
 		<a href="/img/political-correctness/exhibition-3.jpeg"><img src="/img/political-correctness/exhibition-3.jpg" width="351px"/></a>
 	</td>
   </tr>
