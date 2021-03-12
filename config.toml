@@ -9,3 +9,8 @@ BookMenuBundle = '/menu'
 
 [markup.goldmark.renderer]
 unsafe= true
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
