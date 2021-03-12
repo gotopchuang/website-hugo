@@ -60,15 +60,15 @@ bookToc: false
 <table border='0' align="center">
   <tr>
 	<td colspan=2>
-		<a href="/img/political-correctness/exhibition-1.jpeg"><img src="/img/political-correctness/exhibition-1.jpg" width="710px"/></a>
+		<a href="/img/political-correctness/exhibition-1.jpg"><img src="/img/political-correctness/exhibition-1.jpg" width="710px"/></a>
 	</td>
   </tr>
   <tr>
 	<td style="width:355px;">
-		<a href="/img/political-correctness/exhibition-2.jpeg"><img src="/img/political-correctness/exhibition-2.jpg" width="351px"/></a>
+		<a href="/img/political-correctness/exhibition-2.jpg"><img src="/img/political-correctness/exhibition-2.jpg" width="351px"/></a>
 	</td>
 	<td style="padding-left:4px; width:355px">
-		<a href="/img/political-correctness/exhibition-3.jpeg"><img src="/img/political-correctness/exhibition-3.jpg" width="351px"/></a>
+		<a href="/img/political-correctness/exhibition-3.jpg"><img src="/img/political-correctness/exhibition-3.jpg" width="351px"/></a>
 	</td>
   </tr>
 </table>

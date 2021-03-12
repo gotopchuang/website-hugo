@@ -12,8 +12,31 @@ bookToc: false
 與陽春麵研究舍共同創作  
 &NewLine;  
 &NewLine;  
-「太陽出來了，黑暗留在後面，但是太陽不是我們的，我們要睡了。」 —曹禺《日出》  
+人類文明的發展依循英特爾(Intel)創辦人戈登．摩爾(GordonMoore)所提出的「摩爾定律」以每18個月倍增的速度成長。效能越來越好的晶片讓訊息的計算與傳遞速度越來越快。  
 &NewLine;  
-也許為了工作機會、更多的收入，又或是為了某個對城市的幻想，我來到城市裡生活。然而在生活在城市裡並不容易，高昂的居住成本使得多數上班族只能選擇在離市中心較遠的地方租屋，在通勤回家的路上，我總是看見玻璃帷幕上日落的鏡像。  
+密度越來越高的網際網絡(Internet)搜羅了人類的智慧，串接人類的意識，逐漸滲入、浸透人類生存的隙縫，改變人們觀看世界、理解世界、接收資訊、傳播資訊的方式，甚至是生活起居。  
 &NewLine;  
-在打卡下班後，時間終於不再出賣給公司，終於再次屬於自己，鏡子裡的日落更像是屬 於我的日出。
+偶然之中發現Google留存了我過去十幾年來的搜尋紀錄，這些文字猶如我不同時期的人格側寫一般，我們既新奇又不自在的在裡面看見了人類集體意識中，私密的自己。  
+&NewLine;  
+&NewLine;  
+<table border='0' align="center">
+  <tr>
+	<td colspan=2>
+		<a href="/img/inter-net/inter-net-1.jpg"><img src="/img/inter-net/inter-net-1.jpg" width="712px"/></a>
+	</td>
+  </tr>
+  <tr>
+	<td style="width:339px">
+		<a href="/img/inter-net/inter-net-3.jpg"><img src="/img/inter-net/inter-net-3.jpg" width="333px"/></a><br \>
+	</td>
+	<td style="padding-left:4px; width:373px">
+		<a href="/img/inter-net/inter-net-4.jpg"><img src="/img/inter-net/inter-net-4.jpg" width="369px"/></a><br \>
+		<a href="/img/inter-net/inter-net-5.jpg"><img src="/img/inter-net/inter-net-5.jpg" width="369px"/></a><br \>
+	</td>
+  </tr>
+  <tr>
+	<td colspan=2>
+		<a href="/img/inter-net/inter-net-6.jpg"><img src="/img/inter-net/inter-net-6.jpg" width="712px"/></a>
+	</td>
+  </tr>
+</table>
