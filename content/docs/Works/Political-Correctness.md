@@ -22,7 +22,14 @@ bookToc: false
 本作品蒐集台灣社會裡，意識形態高度衝突的社會議題，各個立場所代表的符號，透過編導式攝影的方式讓這些符號在畫面中互動，並安排臉被手機光照亮的人穿插於畫面中，在編排畫面時盡可能減少立場的表達，試圖讓觀者觀看作品的時候因為自身的立場腦補影像所傳遞的意識形態，探討新時代「符號」、「意識形態」、「傳播機制」與「影像」之間的關係。  
 &NewLine;  
 &NewLine;  
-<table border='0' align="center">
+<style>
+img:hover{
+	opacity: 0.5;
+	-webkit-transition-duration: 0.2s;
+    transition-duration: 0.2s;
+}
+</style>
+<table  class="datatable" border='0' align="center">
   <tr>
 	<td colspan=2>
 		<a href="/img/political-correctness/big/1-1.jpg"><img src="/img/political-correctness/small/1-1.jpg" width="709px"/></a>
@@ -57,7 +64,7 @@ bookToc: false
   </tr>
 </table>
 <br \><br \>
-<table border='0' align="center">
+<table  class="datatable" border='0' align="center">
   <tr>
 	<td colspan=2>
 		<a href="/img/political-correctness/big/exhibition-1.jpg"><img src="/img/political-correctness/small/exhibition-1.jpg" width="710px"/></a>

@@ -20,7 +20,14 @@ bookToc: false
 隨著技術的發展，螢幕的解析度越來越高，色域越來越廣，然而目前螢幕的顯現原理終究是「有限離散型」（discretized），終究只能「逼近」自然界「原真」的「無限的連續型」（continuous），「失真」是不可避免的。  
 &NewLine;  
 &NewLine;  
-<table border='0' align="center">
+<style>
+img:hover{
+	opacity: 0.5;
+	-webkit-transition-duration: 0.2s;
+    transition-duration: 0.2s;
+}
+</style>
+<table class="datatable" border='0' align="center">
   <tr>
 	<td colspan=2>
 		<a href="/img/some-scene-on-the-screen/big/theater.jpg"><img src="/img/some-scene-on-the-screen/small/theater.jpg" width="712px"/></a>
@@ -35,7 +42,7 @@ bookToc: false
 	</td>
 </table>
 <br \>
-<table border='0' align="center">
+<table class="datatable" border='0' align="center">
   <tr>
 	<td colspan=2>
 		<a href="/img/some-scene-on-the-screen/big/jpeg.jpg"><img src="/img/some-scene-on-the-screen/small/jpeg.jpg" width="712px"/></a>
@@ -50,7 +57,7 @@ bookToc: false
 	</td>
 </table>
 <br \>
-<table border='0' align="center">
+<table class="datatable" border='0' align="center">
   <tr>
 	<td>
 		<a href="/img/some-scene-on-the-screen/big/windowsXP.jpg"><img src="/img/some-scene-on-the-screen/small/windowsXP.jpg" width="712px"/></a>
@@ -58,7 +65,7 @@ bookToc: false
   </tr>
 </table>
 <br \>
-<table border='0' align="center">
+<table class="datatable" border='0' align="center">
   <tr>
 	<td style="width:355px">
 		<a href="/img/some-scene-on-the-screen/big/jpeg_2.jpg"><img src="/img/some-scene-on-the-screen/small/jpeg_2.jpg" width="351px"/></a>

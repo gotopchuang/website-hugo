@@ -19,7 +19,14 @@ bookToc: false
 偶然之中發現Google留存了我過去十幾年來的搜尋紀錄，這些文字猶如我不同時期的人格側寫一般，我們既新奇又不自在的在裡面看見了人類集體意識中，私密的自己。  
 &NewLine;  
 &NewLine;  
-<table border='0' align="center">
+<style>
+img:hover{
+	opacity: 0.5;
+	-webkit-transition-duration: 0.2s;
+    transition-duration: 0.2s;
+}
+</style>
+<table  class="datatable" border='0' align="center">
   <tr>
 	<td colspan=2>
 		<a href="/img/inter-net/big/inter-net-1.jpg"><img src="/img/inter-net/small/inter-net-1.jpg" width="712px"/></a>
@@ -36,7 +43,7 @@ bookToc: false
   </tr>
   <tr>
 	<td colspan=2>
-		<a href="/img/inter-net/big/inter-net-5.jpg"><img src="/img/inter-net/inter-net-5.jpg" width="712px"/></a>
+		<a href="/img/inter-net/big/inter-net-5.jpg"><img src="/img/inter-net/small/inter-net-5.jpg" width="712px"/></a>
 	</td>
   </tr>
 </table>

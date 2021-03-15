@@ -3,23 +3,52 @@ title: Home page
 type: docs
 ---
 <style>
-a.mylink{
-	color: #000000;
+a.mylink:link, a.mylink:visited{
+	background-color: #FFFFFF;
+    border: none;
+    color: #000000;
+    text-align: center;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    text-decoration: none;
+   font-size: 16px;
+   cursor: pointer;
+   display: block;
+   padding-top: 87px;
+   padding-bottom: 87px;
 }
 a.mylink:hover{
-	opacity: 0.5;
 	text-decoration:none;
 }
 a.mylink:visited {
 	color:#000000;
 	text-decoration:none;
 }
+a.image:link, a.image:visited{
+	background-color: #FFFFFF;
+    border: none;
+    color: #000000;
+    text-align: center;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    text-decoration: none;
+   font-size: 16px;
+   cursor: pointer;
+   display: block;
+   padding-top: 6px;
+   padding-bottom: 0px;
+}
+.datatable:hover{
+	opacity: 0.5;
+	-webkit-transition-duration: 0.2s;
+    transition-duration: 0.2s;
+}
 
 </style>
 <table border='0' align="center">
-  <tr>
+  <tr class="datatable">
 	<td>
-		<a href="/docs/works/some-scene-on-the-screen/"><img src="/img/some-scene-on-the-screen/small/theater_front.jpg" width="400px"/></a>
+		<a class="image" href="/docs/works/some-scene-on-the-screen/"><img src="/img/some-scene-on-the-screen/small/theater_front.jpg" width="400px"/></a>
 	</td>
 	<td>
 		<div style="font-size:14px; text-align:center">
@@ -30,6 +59,11 @@ a.mylink:visited {
 	</td>
   </tr>
   <tr>
+	<td colspan=2>
+		<hr>
+	</td>
+  </tr>
+  <tr class="datatable">
 	<td>
 		<div style="font-size:14px; text-align:center">
 		<a class="mylink" href="/docs/works/political-correctness/">
@@ -38,22 +72,33 @@ a.mylink:visited {
 		</div>
 	</td>
 	<td>
-		<a href="/docs/works/political-correctness/"><img src="/img/political-correctness/small/exhibition-2.jpg" width="400px"/></a>
+		<a class="image" href="/docs/works/political-correctness/"><img src="/img/political-correctness/small/exhibition-2.jpg" width="400px"/></a>
 	</td>
   </tr>
   <tr>
+	<td colspan=2>
+		<hr>
+	</td>
+  </tr>
+  <tr class="datatable">
 	<td>
-		<a href="/docs/works/sunset-in-the-city/"><img src="/img/sunset-in-the-city/small/1.jpg" width="400px"/></a>
+		<a class="image" href="/docs/works/sunset-in-the-city/"><img src="/img/sunset-in-the-city/small/1.jpg" width="400px"/></a>
 	</td>
 	<td>
 		<div style="font-size:14px; text-align:center">
 		<a class="mylink" href="/docs/works/sunset-in-the-city/">
-		Sunset in the City
+		Sunset in the City<br \>
+		城市日落
 		</a>
 		</div>
 	</td>
   </tr>
   <tr>
+	<td colspan=2>
+		<hr>
+	</td>
+  </tr>
+  <tr class="datatable">
 	<td>
 		<div style="font-size:14px; text-align:center">
 		<a class="mylink" href="/docs/co-works/inter-net/">
@@ -63,7 +108,7 @@ a.mylink:visited {
 		</div>
 	</td>
 	<td>
-		<a href="/docs/co-works/inter-net/"><img src="img/inter-net/small/inter-net-1.jpg" width="400px"/></a>
+		<a class="image" href="/docs/co-works/inter-net/"><img src="img/inter-net/small/inter-net-1.jpg" width="400px"/></a>
 	</td>
   </tr>
 </table>

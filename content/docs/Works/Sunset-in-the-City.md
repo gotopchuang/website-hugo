@@ -6,6 +6,7 @@ bookToc: false
 ## **Sunset in the City**
 &NewLine;  
 &NewLine;  
+城市日落  
 進行中計畫  
 2020 ～  
 &NewLine;  
@@ -17,7 +18,14 @@ bookToc: false
 在打卡下班後，時間終於不再出賣給公司，終於再次屬於自己，鏡子裡的日落更像是屬於我的日出。  
 &NewLine;  
 &NewLine;  
-<table border='0' align="center">
+<style>
+img:hover{
+	opacity: 0.5;
+	-webkit-transition-duration: 0.2s;
+    transition-duration: 0.2s;
+}
+</style>
+<table class="datatable" border='0' align="center">
   <tr>
 	<td colspan=2>
 		<a href="/img/sunset-in-the-city/big/1.jpg"><img src="/img/sunset-in-the-city/small/1.jpg" width="712px"/></a>
