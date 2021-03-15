@@ -20,9 +20,9 @@ a.mylink:visited {
 </style>
 <div style="font-size:15px">
 <br /><br />
-Email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp; <a class="mylink" href="mailto:gotop0728@gmail.com">gotop0728@gmail.com</a>
+Email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp; <a class="mylink" href="mailto:gotop0728@gmail.com" target="_blank">gotop0728@gmail.com</a>
 <br /><br />
-Facebook&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;<a class="mylink" href="https://www.facebook.com/profile.php?id=1121106912">Link</a>
+Facebook&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;<a class="mylink" href="https://www.facebook.com/profile.php?id=1121106912" target="_blank">Link</a>
 <br /><br />
-陽春麵研究舍 IG : &nbsp;<a class="mylink" href="https://www.instagram.com/simplenoodle.art/">Link</a>
+陽春麵研究舍 IG : &nbsp;<a class="mylink" href="https://www.instagram.com/simplenoodle.art/" target="_blank">Link</a>
 </div>
