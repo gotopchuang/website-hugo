@@ -25,34 +25,34 @@ bookToc: false
 <table border='0' align="center">
   <tr>
 	<td colspan=2>
-		<a href="/img/political-correctness/1-1.jpeg"><img src="/img/political-correctness/1-1.jpeg" width="709px"/></a>
+		<a href="/img/political-correctness/big/1-1.jpg"><img src="/img/political-correctness/small/1-1.jpg" width="709px"/></a>
 	</td>
   </tr>
   <tr>
 	<td style="width:282px">
-		<a href="/img/political-correctness/1-2.jpeg"><img src="/img/political-correctness/1-2.jpeg" width="279px"/></a><br \>
-		<a href="/img/political-correctness/1-3.jpeg"><img src="/img/political-correctness/1-3.jpeg" width="279px"/></a><br \>
-		<a href="/img/political-correctness/1-4.jpeg"><img src="/img/political-correctness/1-4.jpeg" width="279px"/></a>
+		<a href="/img/political-correctness/big/1-2.jpg"><img src="/img/political-correctness/small/1-2.jpg" width="279px"/></a><br \>
+		<a href="/img/political-correctness/big/1-3.jpg"><img src="/img/political-correctness/small/1-3.jpg" width="279px"/></a><br \>
+		<a href="/img/political-correctness/big/1-4.jpg"><img src="/img/political-correctness/small/1-4.jpg" width="279px"/></a>
 	</td>
     <td style="padding-left:3px; width:428px">
-		<a href="/img/political-correctness/1-5-1.jpeg"><img src="/img/political-correctness/1-5-1.jpeg" width="423px"/></a><br \>
-		<a href="/img/political-correctness/1-5-2.jpeg"><img src="/img/political-correctness/1-5-2.jpeg" width="423px"/></a>
+		<a href="/img/political-correctness/big/1-5-1.jpg"><img src="/img/political-correctness/small/1-5-1.jpg" width="423px"/></a><br \>
+		<a href="/img/political-correctness/big/1-5-2.jpg"><img src="/img/political-correctness/small/1-5-2.jpg" width="423px"/></a>
 	</td>
   <tr>
 	<td colspan=2>
 		<br \><br \>
-		<a href="/img/political-correctness/2-1.jpeg"><img src="/img/political-correctness/2-1.jpeg" width="709px"/></a>
+		<a href="/img/political-correctness/big/2-1.jpg"><img src="/img/political-correctness/small/2-1.jpg" width="709px"/></a>
 	</td>
   </tr>
   <tr>
 	<td>
-		<a href="/img/political-correctness/2-2.jpeg"><img src="/img/political-correctness/2-2.jpeg" width="279px"/></a><br \>
-		<a href="/img/political-correctness/2-3.jpeg"><img src="/img/political-correctness/2-3.jpeg" width="279px"/></a><br \>
-		<a href="/img/political-correctness/2-4.jpeg"><img src="/img/political-correctness/2-4.jpeg" width="279px"/></a>
+		<a href="/img/political-correctness/big/2-2.jpg"><img src="/img/political-correctness/small/2-2.jpg" width="279px"/></a><br \>
+		<a href="/img/political-correctness/big/2-3.jpg"><img src="/img/political-correctness/small/2-3.jpg" width="279px"/></a><br \>
+		<a href="/img/political-correctness/big/2-4.jpg"><img src="/img/political-correctness/small/2-4.jpg" width="279px"/></a>
 	</td>
     <td style="padding-left:4px">
-		<a href="/img/political-correctness/2-5-1.jpeg"><img src="/img/political-correctness/2-5-1.jpeg" width="423px"/></a><br \>
-		<a href="/img/political-correctness/2-5-2.jpeg"><img src="/img/political-correctness/2-5-2.jpeg" width="423px"/></a>
+		<a href="/img/political-correctness/big/2-5-1.jpg"><img src="/img/political-correctness/small/2-5-1.jpg" width="423px"/></a><br \>
+		<a href="/img/political-correctness/big/2-5-2.jpg"><img src="/img/political-correctness/small/2-5-2.jpg" width="423px"/></a>
 	</td>
   </tr>
 </table>
@@ -60,15 +60,15 @@ bookToc: false
 <table border='0' align="center">
   <tr>
 	<td colspan=2>
-		<a href="/img/political-correctness/exhibition-1.jpg"><img src="/img/political-correctness/exhibition-1.jpg" width="710px"/></a>
+		<a href="/img/political-correctness/big/exhibition-1.jpg"><img src="/img/political-correctness/small/exhibition-1.jpg" width="710px"/></a>
 	</td>
   </tr>
   <tr>
 	<td style="width:355px;">
-		<a href="/img/political-correctness/exhibition-2.jpg"><img src="/img/political-correctness/exhibition-2.jpg" width="351px"/></a>
+		<a href="/img/political-correctness/big/exhibition-2.jpg"><img src="/img/political-correctness/small/exhibition-2.jpg" width="351px"/></a>
 	</td>
 	<td style="padding-left:4px; width:355px">
-		<a href="/img/political-correctness/exhibition-3.jpg"><img src="/img/political-correctness/exhibition-3.jpg" width="351px"/></a>
+		<a href="/img/political-correctness/big/exhibition-3.jpg"><img src="/img/political-correctness/small/exhibition-3.jpg" width="351px"/></a>
 	</td>
   </tr>
 </table>

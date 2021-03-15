@@ -23,37 +23,37 @@ bookToc: false
 <table border='0' align="center">
   <tr>
 	<td colspan=2>
-		<a href="/img/some-scene-on-the-screen/thearter.jpg"><img src="/img/some-scene-on-the-screen/thearter.jpg" width="712px"/></a>
+		<a href="/img/some-scene-on-the-screen/big/theater.jpg"><img src="/img/some-scene-on-the-screen/small/theater.jpg" width="712px"/></a>
 	</td>
   </tr>
   <tr>
 	<td style="width:355px">
-		<a href="/img/some-scene-on-the-screen/theater_side.jpg"><img src="/img/some-scene-on-the-screen/theater_side.jpg" width="351px"/></a><br \>
+		<a href="/img/some-scene-on-the-screen/big/theater_side.jpg"><img src="/img/some-scene-on-the-screen/small/theater_side.jpg" width="351px"/></a><br \>
 	</td>
 	<td style="padding-left:4px; width:355px">
-		<a href="/img/some-scene-on-the-screen/theater_partial.jpg"><img src="/img/some-scene-on-the-screen/theater_partial.jpg" width="351px"/></a><br \>
+		<a href="/img/some-scene-on-the-screen/big/theater_partial.jpg"><img src="/img/some-scene-on-the-screen/small/theater_partial.jpg" width="351px"/></a><br \>
 	</td>
 </table>
 <br \>
 <table border='0' align="center">
   <tr>
 	<td colspan=2>
-		<a href="/img/some-scene-on-the-screen/jpeg.jpg"><img src="/img/some-scene-on-the-screen/jpeg.jpg" width="712px"/></a>
+		<a href="/img/some-scene-on-the-screen/big/jpeg.jpg"><img src="/img/some-scene-on-the-screen/small/jpeg.jpg" width="712px"/></a>
 	</td>
   </tr>
   <tr>
 	<td style="width:355px">
-		<a href="/img/some-scene-on-the-screen/jpeg_side.jpg"><img src="/img/some-scene-on-the-screen/jpeg_side.jpg" width="351px"/></a><br \>
+		<a href="/img/some-scene-on-the-screen/big/jpeg_side.jpg"><img src="/img/some-scene-on-the-screen/small/jpeg_side.jpg" width="351px"/></a><br \>
 	</td>
 	<td style="padding-left:4px; width:355px">
-		<a href="/img/some-scene-on-the-screen/jpeg_partial.jpg"><img src="/img/some-scene-on-the-screen/jpeg_partial.jpg" width="351px"/></a><br \>
+		<a href="/img/some-scene-on-the-screen/big/jpeg_partial.jpg"><img src="/img/some-scene-on-the-screen/small/jpeg_partial.jpg" width="351px"/></a><br \>
 	</td>
 </table>
 <br \>
 <table border='0' align="center">
   <tr>
 	<td>
-		<a href="/img/some-scene-on-the-screen/windowsXP.jpg"><img src="/img/some-scene-on-the-screen/windowsXP.jpg" width="712px"/></a>
+		<a href="/img/some-scene-on-the-screen/big/windowsXP.jpg"><img src="/img/some-scene-on-the-screen/small/windowsXP.jpg" width="712px"/></a>
 	</td>
   </tr>
 </table>
@@ -61,12 +61,12 @@ bookToc: false
 <table border='0' align="center">
   <tr>
 	<td style="width:355px">
-		<a href="/img/some-scene-on-the-screen/jpeg_2.jpg"><img src="/img/some-scene-on-the-screen/jpeg_2.jpg" width="351px"/></a>
-		<a href="/img/some-scene-on-the-screen/nude.jpg"><img src="/img/some-scene-on-the-screen/nude.jpg" width="351px"/></a>
+		<a href="/img/some-scene-on-the-screen/big/jpeg_2.jpg"><img src="/img/some-scene-on-the-screen/small/jpeg_2.jpg" width="351px"/></a>
+		<a href="/img/some-scene-on-the-screen/big/nude.jpg"><img src="/img/some-scene-on-the-screen/small/nude.jpg" width="351px"/></a>
 	</td>
 	<td style="padding-left:4px; width:355px">
-		<a href="/img/some-scene-on-the-screen/prince.jpg"><img src="/img/some-scene-on-the-screen/prince.jpg" width="351px"/></a>
-		<a href="/img/some-scene-on-the-screen/levine.jpg"><img src="/img/some-scene-on-the-screen/levine.jpg" width="351px"/></a>
+		<a href="/img/some-scene-on-the-screen/big/prince.jpg"><img src="/img/some-scene-on-the-screen/small/prince.jpg" width="351px"/></a>
+		<a href="/img/some-scene-on-the-screen/big/levine.jpg"><img src="/img/some-scene-on-the-screen/small/levine.jpg" width="351px"/></a>
 	</td>
   </tr>
 </table>

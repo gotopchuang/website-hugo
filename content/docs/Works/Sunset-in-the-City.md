@@ -20,21 +20,21 @@ bookToc: false
 <table border='0' align="center">
   <tr>
 	<td colspan=2>
-		<a href="/img/sunset-in-the-city/sunset-in-the-city-1.jpg"><img src="/img/sunset-in-the-city/sunset-in-the-city-1.jpg" width="712px"/></a>
+		<a href="/img/sunset-in-the-city/big/1.jpg"><img src="/img/sunset-in-the-city/small/1.jpg" width="712px"/></a>
 	</td>
   </tr>
   <tr>
 	<td style="width:355px">
-		<a href="/img/sunset-in-the-city/sunset-in-the-city-5.jpg"><img src="/img/sunset-in-the-city/sunset-in-the-city-5.jpg" width="351px"/></a><br \>
-		<a href="/img/sunset-in-the-city/sunset-in-the-city-2.jpg"><img src="/img/sunset-in-the-city/sunset-in-the-city-2.jpg" width="351px"/></a><br \>
+		<a href="/img/sunset-in-the-city/big/2.jpg"><img src="/img/sunset-in-the-city/small/2.jpg" width="351px"/></a><br \>
+		<a href="/img/sunset-in-the-city/big/3.jpg"><img src="/img/sunset-in-the-city/small/3.jpg" width="351px"/></a><br \>
 	</td>
 	<td style="padding-left:4px; width:355px">
-		<a href="/img/sunset-in-the-city/sunset-in-the-city-6.jpg"><img src="/img/sunset-in-the-city/sunset-in-the-city-6.jpg" width="351px"/></a><br \>
-		<a href="/img/sunset-in-the-city/sunset-in-the-city-4.jpg"><img src="/img/sunset-in-the-city/sunset-in-the-city-4.jpg" width="351px"/></a><br \>
+		<a href="/img/sunset-in-the-city/big/4.jpg"><img src="/img/sunset-in-the-city/small/4.jpg" width="351px"/></a><br \>
+		<a href="/img/sunset-in-the-city/big/5.jpg"><img src="/img/sunset-in-the-city/small/5.jpg" width="351px"/></a><br \>
 	</td>
 	<tr>
 	<td colspan=2>
-		<a href="/img/sunset-in-the-city/sunset-in-the-city-8.jpg"><img src="/img/sunset-in-the-city/sunset-in-the-city-8.jpg" width="712px"/></a>
+		<a href="/img/sunset-in-the-city/big/6.jpg"><img src="/img/sunset-in-the-city/small/6.jpg" width="712px"/></a>
 	</td>
   </tr>
 </table>

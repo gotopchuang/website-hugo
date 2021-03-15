@@ -22,21 +22,21 @@ bookToc: false
 <table border='0' align="center">
   <tr>
 	<td colspan=2>
-		<a href="/img/inter-net/inter-net-1.jpg"><img src="/img/inter-net/inter-net-1.jpg" width="712px"/></a>
+		<a href="/img/inter-net/big/inter-net-1.jpg"><img src="/img/inter-net/small/inter-net-1.jpg" width="712px"/></a>
 	</td>
   </tr>
   <tr>
 	<td style="width:339px">
-		<a href="/img/inter-net/inter-net-3.jpg"><img src="/img/inter-net/inter-net-3.jpg" width="333px"/></a><br \>
+		<a href="/img/inter-net/big/inter-net-3.jpg"><img src="/img/inter-net/small/inter-net-3.jpg" width="333px"/></a><br \>
 	</td>
 	<td style="padding-left:4px; width:373px">
-		<a href="/img/inter-net/inter-net-4.jpg"><img src="/img/inter-net/inter-net-4.jpg" width="369px"/></a><br \>
-		<a href="/img/inter-net/inter-net-5.jpg"><img src="/img/inter-net/inter-net-5.jpg" width="369px"/></a><br \>
+		<a href="/img/inter-net/big/inter-net-4.jpg"><img src="/img/inter-net/small/inter-net-4.jpg" width="369px"/></a><br \>
+		<a href="/img/inter-net/big/inter-net-5.jpg"><img src="/img/inter-net/small/inter-net-5.jpg" width="369px"/></a><br \>
 	</td>
   </tr>
   <tr>
 	<td colspan=2>
-		<a href="/img/inter-net/inter-net-6.jpg"><img src="/img/inter-net/inter-net-6.jpg" width="712px"/></a>
+		<a href="/img/inter-net/big/inter-net-6.jpg"><img src="/img/inter-net/inter-net-6.jpg" width="712px"/></a>
 	</td>
   </tr>
 </table>
