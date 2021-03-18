@@ -1,6 +1,7 @@
 ---
 title: Home page
 type: docs
+description: Gotop Chuang 莊向峰的藝術、攝影作品網站
 ---
 <style>
 a.mylink:link, a.mylink:visited{
