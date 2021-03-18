@@ -1,7 +1,7 @@
 ---
 title: Home page
 type: docs
-description: Gotop Chuang 莊向峰的藝術、攝影作品網站
+description: Gotop Chuang 莊向峰 藝術、攝影作品網站
 ---
 <style>
 a.mylink:link, a.mylink:visited{
@@ -49,7 +49,7 @@ a.image:link, a.image:visited{
 <table border='0' align="center">
   <tr class="datatable">
 	<td>
-		<a class="image" href="/docs/works/some-scene-on-the-screen/"><img src="/img/some-scene-on-the-screen/small/theater_front.jpg" width="400px"/></a>
+		<a class="image" href="/docs/works/some-scene-on-the-screen/"><img src="/img/some-scene-on-the-screen/small/theater_front1.jpg" width="400px"/></a>
 	</td>
 	<td>
 		<div style="font-size:14px; text-align:center">
